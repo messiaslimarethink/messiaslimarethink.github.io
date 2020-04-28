@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Messias Junior</title>
+    <title>Messias Lima Rethink</title>
     <link href="https://messiaslimarethink.github.io/feed.xml" rel="self" />
     <link href="https://messiaslimarethink.github.io" />
-    <updated>2020-04-28T14:56:57+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Messias Junior</name>
     </author>
     <id>https://messiaslimarethink.github.io</id>
 
-    <entry>
-        <title>Ola mundo</title>
-        <author>
-            <name>Messias Junior</name>
-        </author>
-        <link href="https://messiaslimarethink.github.io/ola-mundo.html"/>
-        <id>https://messiaslimarethink.github.io/ola-mundo.html</id>
-
-        <updated>2020-04-28T14:56:48+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://messiaslimarethink.github.io/media/posts/1/balrog.jpg" alt="" />
-                    Esse é meu primeiro post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://messiaslimarethink.github.io/media/posts/1/balrog.jpg" alt="" />
-                Esse é meu primeiro post
-            ]]>
-        </content>
-    </entry>
 </feed>

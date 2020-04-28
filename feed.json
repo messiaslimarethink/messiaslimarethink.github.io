@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Messias Junior",
+    "title": "Messias Lima Rethink",
     "description": "",
     "home_page_url": "https://messiaslimarethink.github.io",
     "feed_url": "https://messiaslimarethink.github.io/feed.json",
@@ -9,20 +9,5 @@
         "name": "Messias Junior"
     },
     "items": [
-        {
-            "id": "https://messiaslimarethink.github.io/ola-mundo.html",
-            "url": "https://messiaslimarethink.github.io/ola-mundo.html",
-            "title": "Ola mundo",
-            "summary": "Esse é meu primeiro post",
-            "content_html": "Esse é meu primeiro post",
-            "image": "https://messiaslimarethink.github.io/media/posts/1/balrog.jpg",
-            "author": {
-                "name": "Messias Junior"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-04-28T14:14:56+01:00",
-            "date_modified": "2020-04-28T14:56:48+01:00"
-        }
     ]
 }
